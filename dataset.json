@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nMost popular restaurants in the top range of their local market for proven foot traffic and review volume. \n\nThese are the highest-velocity, actively transacting accounts.\n\n100% of these restaurants have at least one email address. All emails were cleaned and verified in the last 10 days.\n\nBusiness activity validated by an \"Active Heartbeat\" signal in the last 30 days.",
+  "config_name": "Top 300 Active Restaurant Whales with Email in Denver, Colorado, US",
+  "export_job_id": "2e1616aa-4cff-40c7-a82e-f5a7729e74bd",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 639959,
+  "location_name": "Denver",
+  "location_type": "city",
+  "repo_name": "top-300-active-restaurant-whales-with-email-in-denver-colorado-us-sample-639959",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/639959/beamstation_639959_restaurants-us-co_SAMPLE_DIST.csv",
+  "sample_pct": 9.58,
+  "sample_records": 16,
+  "sample_sha256": "31677e660b88cf860c0c1f2f337d96e9c0726f0ee8c2dad7b8753415eb257dae",
+  "sample_size_bytes": 78054,
+  "total_records": 167,
+  "updated_at": "2026-04-08T01:32:56.010214+00:00"
+}

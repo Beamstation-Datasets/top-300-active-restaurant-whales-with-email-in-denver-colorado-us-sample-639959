@@ -1,6 +1,6 @@
 # Top 300 Active Restaurant Whales with Email in Denver, Colorado, US
 
-> Free BeamStation sample export with 14 rows and masked direct-contact fields.
+> Free BeamStation sample export with 6 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `639959` |
 | Location | Denver |
 | Category | Restaurants |
-| Full dataset size | 142 records |
-| Free sample size | 14 records (9.86%) |
-| Last export | 2026-04-15T06:57:48.999969+00:00 |
+| Full dataset size | 65 records |
+| Free sample size | 6 records (9.23%) |
+| Last export | 2026-04-22T13:08:02.747766+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-300-active-restaurant-whales-with-email-in-denver-colorado-us-sample-639959/releases/download/sample-latest/beamstation_639959_restaurants-us-co_SAMPLE_DIST.csv) |
 
 ## What is in this sample

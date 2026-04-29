@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b6d32257-b700-4c8d-bd50-7286fce11f33",
+  "export_job_id": "248b1acb-e57a-4e94-92e6-23e59827e5da",
   "id_short": 639959,
-  "published_at": "2026-04-23T07:21:24Z",
+  "published_at": "2026-04-29T19:25:21Z",
   "repo_name": "top-300-active-restaurant-whales-with-email-in-denver-colorado-us-sample-639959",
   "sample_asset_name": "beamstation_639959_restaurants-us-co_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/639959/beamstation_639959_restaurants-us-co_SAMPLE_DIST.csv",
-  "sample_records": 6,
-  "sample_sha256": "be216d83a613686ac4ffa40063419591c5568442464b2466ce8301cbfd5bc183",
-  "sample_size_bytes": 40756,
-  "total_records": 65
+  "sample_records": 19,
+  "sample_sha256": "2bcc87f012b447cb3776d5d270bd3d71c62b694eb5bd556c5fe76ee64faf49df",
+  "sample_size_bytes": 96296,
+  "total_records": 193
 }
